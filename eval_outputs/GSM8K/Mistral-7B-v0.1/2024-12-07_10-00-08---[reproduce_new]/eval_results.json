@@ -1,0 +1,52 @@
+[
+    {
+        "correct": true,
+        "predict_answer": "3.0",
+        "gold_answer": "3"
+    },
+    {
+        "correct": true,
+        "predict_answer": "64.0",
+        "gold_answer": "64"
+    },
+    {
+        "correct": true,
+        "predict_answer": "460.0",
+        "gold_answer": "460"
+    },
+    {
+        "correct": true,
+        "predict_answer": "18.0",
+        "gold_answer": "18"
+    },
+    {
+        "correct": true,
+        "predict_answer": "540.0",
+        "gold_answer": "540"
+    },
+    {
+        "correct": true,
+        "predict_answer": "320.0",
+        "gold_answer": "320"
+    },
+    {
+        "correct": true,
+        "predict_answer": "20.0",
+        "gold_answer": "20"
+    },
+    {
+        "correct": false,
+        "predict_answer": "120.0",
+        "gold_answer": "160"
+    },
+    {
+        "correct": false,
+        "predict_answer": "180.0",
+        "gold_answer": "45"
+    },
+    {
+        "correct": false,
+        "predict_answer": "40000.0",
+        "gold_answer": "70000"
+    }
+]
